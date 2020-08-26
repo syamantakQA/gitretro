@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/selenium-java-2.53.0.jar" sourcepath="C:/Users/Syamantak/Downloads/selenium-2.53.0/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-2.53.0/selenium-java-2.53.0-srcs.jar" sourcepath="C:/Users/Syamantak/Downloads/selenium-2.53.0/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Syamantak/Downloads/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/selenium-htmlunit-driver-2.21.0.jar/selenium-htmlunit-driver-2.21.0.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/phantomjsdriver-1.0.1.jar/phantomjsdriver-1.0.1.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/poi-3.9.jar/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/poi-ooxml-3.9.jar/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/xmlbeans-xmlpublic-2.3.0.jar/xmlbeans-xmlpublic-2.3.0.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/poi-ooxml-schemas-3.9.jar/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/dom4j-1.6.jar/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/xbean-2.3.0.jar/xbean-2.3.0.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/apache-log4j-2.13.3-bin/apache-log4j-2.13.3-bin/log4j-api-2.13.3.jar"/>
+	<classpathentry kind="lib" path="H:/SW_Downloads/apache-log4j-2.13.3-bin/apache-log4j-2.13.3-bin/log4j-core-2.13.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

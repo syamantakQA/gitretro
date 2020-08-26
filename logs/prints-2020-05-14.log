@@ -1,0 +1,8 @@
+21:36:04.170 [main] ERROR SelDemo.headless2 - this is not an error
+21:36:11.867 [main] FATAL SelDemo.headless2 - customization achieved
+21:42:38.389 [main] ERROR SelDemo.headless2 - this is not an error
+21:42:47.162 [main] FATAL SelDemo.headless2 - customization achieved
+21:44:17.804 [main] INFO  SelDemo.logtry - Application launched
+21:44:17.983 [main] FATAL SelDemo.logtry - This is fatal message
+21:44:17.984 [main] ERROR SelDemo.logtry - This is error message
+21:44:19.180 [main] INFO  SelDemo.logtry - Firstname Provided

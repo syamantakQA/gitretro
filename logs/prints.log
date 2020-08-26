@@ -1,0 +1,8 @@
+21:44:19.180 [main] DEBUG SelDemo.logtry - I am debugging
+21:44:20.278 [main] INFO  SelDemo.logtry - Lastname Provided
+21:44:21.161 [main] INFO  SelDemo.logtry - Username Provided
+21:44:22.387 [main] INFO  SelDemo.logtry - Password Provided
+21:44:23.584 [main] INFO  SelDemo.logtry - Confirming the password
+21:44:27.253 [main] INFO  SelDemo.logtry - Next button got clicked
+21:44:38.182 [main] INFO  SelDemo.logtry - ----------------End of the Test---------------
+21:44:38.182 [main] ERROR SelDemo.logtry - Finally

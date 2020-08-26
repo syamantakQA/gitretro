@@ -1,0 +1,66 @@
+2017-07-22 16:01:58,444 - logtry -INFO - Facebook launched
+2017-07-22 16:01:58,524 - logtry -INFO - Google Launched
+2017-07-22 16:05:30,160 - logtry -INFO - Facebook launched
+2017-07-22 16:05:30,208 - logtry -INFO - Google Launched
+2017-07-22 17:03:12,416 - scrollintoview -INFO - Xpath of desired elelement taken
+2017-07-22 17:03:12,793 - scrollintoview -INFO - DONE
+2020-05-12 11:36:42,726 - logtry -INFO - Application launched
+2020-05-12 11:36:43,999 - logtry -INFO - Firstname Provided
+2020-05-12 11:36:45,283 - logtry -INFO - Lastname Provided
+2020-05-12 11:36:46,170 - logtry -INFO - Username Provided
+2020-05-12 11:36:47,408 - logtry -INFO - Password Provided
+2020-05-12 11:36:48,635 - logtry -INFO - Confirming the password
+2020-05-12 11:36:52,035 - logtry -INFO - Next button got clicked
+2020-05-12 11:37:02,874 - logtry -INFO - ----------------End of the Test---------------
+2020-05-12 15:35:15,670 - headless -INFO - webdriver initiatlized
+2020-05-12 15:37:05,350 - headless -INFO - webdriver initiatlized
+2020-05-12 15:39:49,985 - headless -INFO - webdriver initiatlized
+2020-05-12 15:45:19,877 - headless -INFO - webdriver initiatlized
+2020-05-12 15:45:47,021 - headless -INFO - webdriver initiatlized
+2020-05-12 15:46:39,321 - headless -INFO - webdriver initiatlized
+2020-05-12 15:47:21,668 - logtry -INFO - Application launched
+2020-05-12 15:47:23,368 - logtry -INFO - Firstname Provided
+2020-05-12 15:47:24,593 - logtry -INFO - Lastname Provided
+2020-05-12 15:47:25,503 - logtry -INFO - Username Provided
+2020-05-12 15:47:26,832 - logtry -INFO - Password Provided
+2020-05-12 15:47:28,055 - logtry -INFO - Confirming the password
+2020-05-12 15:47:32,225 - logtry -INFO - Next button got clicked
+2020-05-12 15:47:42,924 - logtry -INFO - ----------------End of the Test---------------
+2020-05-12 16:21:22,432 - headless2 -INFO - step1
+2020-05-12 16:21:22,501 - headless2 -INFO - step2
+2020-05-12 16:21:27,653 - headless2 -INFO - step3
+2020-05-12 16:21:34,385 - headless2 -INFO - step4
+2020-05-12 16:21:34,402 - headless2 -INFO - step5
+2020-05-12 16:22:20,834 - headless2 -INFO - step1
+2020-05-12 16:22:20,842 - headless2 -INFO - step2
+2020-05-12 16:22:27,217 - headless2 -INFO - step3
+2020-05-12 16:23:39,935 - headless2 -INFO - step1
+2020-05-12 16:23:39,945 - headless2 -INFO - step2
+2020-05-12 16:23:46,229 - headless2 -INFO - step3
+2020-05-12 16:23:49,000 - headless2 -INFO - step4
+2020-05-12 16:23:49,014 - headless2 -INFO - step5
+2020-05-12 16:24:07,515 - headless2 -INFO - step1
+2020-05-12 16:24:07,522 - headless2 -INFO - step2
+2020-05-12 16:24:11,556 - headless2 -INFO - step3
+2020-05-12 16:24:23,587 - headless2 -INFO - step4
+2020-05-12 16:24:23,642 - headless2 -INFO - end of test
+2020-05-14 16:52:32,594 - logtry -INFO - Application launched
+2020-05-14 16:52:32,896 - logtry -FATAL - This is fatal message
+2020-05-14 16:52:32,896 - logtry -ERROR - This is error message
+2020-05-14 16:52:34,663 - logtry -INFO - Firstname Provided
+2020-05-14 16:52:35,778 - logtry -INFO - Lastname Provided
+2020-05-14 16:52:36,650 - logtry -INFO - Username Provided
+2020-05-14 16:52:37,882 - logtry -INFO - Password Provided
+2020-05-14 16:52:39,074 - logtry -INFO - Confirming the password
+2020-05-14 16:52:43,738 - logtry -INFO - Next button got clicked
+2020-05-14 16:52:54,560 - logtry -INFO - ----------------End of the Test---------------
+2020-05-14 16:55:37,848 - logtry -INFO - Application launched
+2020-05-14 16:55:37,866 - logtry -FATAL - This is fatal message
+2020-05-14 16:55:37,866 - logtry -ERROR - This is error message
+2020-05-14 16:55:38,723 - logtry -INFO - Firstname Provided
+2020-05-14 16:55:39,696 - logtry -INFO - Lastname Provided
+2020-05-14 16:55:40,585 - logtry -INFO - Username Provided
+2020-05-14 16:55:41,825 - logtry -INFO - Password Provided
+2020-05-14 16:55:43,008 - logtry -INFO - Confirming the password
+2020-05-14 16:55:46,060 - logtry -INFO - Next button got clicked
+2020-05-14 16:55:56,845 - logtry -INFO - ----------------End of the Test---------------
